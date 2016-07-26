@@ -4,21 +4,21 @@
         <description><![CDATA[Livssnyter]]></description>
         <link>https://thegrid.ai/livssnyter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 12:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 12:33:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/livssnyter/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e61a0e5a-81c3-4a83-bafd-9a64e044b072.jpg">]]></description>
-            <link>https://thegrid.ai/livssnyter/fcaa288e-e604-4071-98c7-437526d1a406/index.html</link>
-            <guid isPermaLink="false">fcaa288e-e604-4071-98c7-437526d1a406</guid>
-            <pubDate>Tue, 26 Jul 2016 12:33:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82649c8e-793b-4fec-a0a6-b1dbf7ab8f47.jpg">]]></description>
             <link>https://thegrid.ai/livssnyter/oksehalesuppe-lars-style/index.html</link>
             <guid isPermaLink="false">b6fcc4a6-3d21-4772-a319-fb97363d3fa7</guid>
             <pubDate>Tue, 26 Jul 2016 12:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e61a0e5a-81c3-4a83-bafd-9a64e044b072.jpg">]]></description>
+            <link>https://thegrid.ai/livssnyter/fcaa288e-e604-4071-98c7-437526d1a406/index.html</link>
+            <guid isPermaLink="false">fcaa288e-e604-4071-98c7-437526d1a406</guid>
+            <pubDate>Tue, 26 Jul 2016 12:25:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
