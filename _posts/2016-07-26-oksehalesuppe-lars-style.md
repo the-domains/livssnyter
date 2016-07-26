@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Oksehalesuppe Lars-style
-datePublished: '2016-07-26T12:23:22.745Z'
-dateModified: '2016-07-26T12:21:51.533Z'
+datePublished: '2016-07-26T12:33:24.248Z'
+dateModified: '2016-07-26T12:23:28.857Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-26-oksehalesuppe-lars-style.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-07-26-oksehalesuppe-lars-style.md
 url: oksehalesuppe-lars-style/index.html
 _type: Article
 
